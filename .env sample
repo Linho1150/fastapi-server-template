@@ -1,2 +1,2 @@
-DBHOST=
-DBUSER=
+ADMIN_EMAIL="deadpool@example.com"
+APP_NAME="ChimichangApp"
